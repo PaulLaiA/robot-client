@@ -1,9 +1,13 @@
 # XC 自动推播插件
 
-## 使用方式
+## 使用教学
+### 前置条件
 
 1. 登录 [PushPlus推送加](http://www.pushplus.plus/push1.html)
 2. 获取 `token`
+3. 配置 `config.yml`
+4. 在 `Robot.exe` 的目录下,打开 `PowerShell`. 运行 `.\Robot.exe config.yml` 即可
+
 
 ### config.yml 详解
 ```yaml
